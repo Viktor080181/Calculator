@@ -1,0 +1,17 @@
+﻿  Калькулятор.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\Student10\Desktop\project\Project6\Project6\Калькулятор.h(120,11): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  (компиляция исходного файла "Калькулятор.cpp")
+  
+C:\Users\Student10\Desktop\project\Project6\Project6\Калькулятор.h(130,11): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "Калькулятор.cpp")
+  
+C:\Users\Student10\Desktop\project\Project6\Project6\Калькулятор.h(148,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Калькулятор.cpp")
+  
+C:\Users\Student10\Desktop\project\Project6\Project6\Калькулятор.h(148,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Калькулятор.cpp")
+  
+  Калькулятор.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project6.vcxproj -> C:\Users\Student10\Desktop\project\Project6\x64\Debug\Калькулятор.exe
